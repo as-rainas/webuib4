@@ -23,5 +23,8 @@
   "homepage": "https://github.com/as-rainas/webuib4#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3"
   }
 }
